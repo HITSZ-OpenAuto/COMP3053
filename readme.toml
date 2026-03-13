@@ -1,17 +1,18 @@
 course_name = "汇编语言与接口技术"
-repo_type = "normal"
 course_code = "COMP3053"
-
+repo_type = "normal"
 description = """
 笔者认为汇编是程序员非常重要的内功，对于学习操作系统、编译原理、计算机系统是有帮助的。
 如果仅仅只是为了应付想用最少的时间凑学分，那么你可能不适合选修本门课。
 如果想稍微顺便学一点东西，略微花一点时间（其实也不需要很多，王爽教材阅读+跟着实践仅需9天即可学完），那此门课还是非常欢迎你的。
 """
 
-[[lecturers]]
+[lecturers]
+
+[[lecturers.items]]
 name = "卢光明"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 年轻老师（曾在腾讯工作），语速叹为观止，需要集中精力。
 PPT非常清晰详细，老师也在尽量讲的有趣，ppt会提前发到群里，有更改会及时更新。
