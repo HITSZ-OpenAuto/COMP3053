@@ -1,0 +1,352 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763814856,
+    "hash": "8d827ecbb1b9f2cbacc234cce80db4d150358188"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1754204031,
+    "hash": "bad0d61d6939a01845de8566a1ebb33a11039050"
+  },
+  "README.md": {
+    "size": 4287,
+    "time": 1791961566,
+    "hash": "bc9f027fbd55d91724575ef02112e5019daeed0f"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1754204031,
+    "hash": "bad0d61d6939a01845de8566a1ebb33a11039050"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1754204031,
+    "hash": "bad0d61d6939a01845de8566a1ebb33a11039050"
+  },
+  "exams/23秋汇编语言与接口技术回忆版.pdf": {
+    "size": 1130189,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "exams/readme.md": {
+    "size": 272,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1754204031,
+    "hash": "bad0d61d6939a01845de8566a1ebb33a11039050"
+  },
+  "labs/2019/0-熟悉汇编程序开发环境.pptx": {
+    "size": 2039654,
+    "time": 1755970656,
+    "hash": "9af8aa93b6d933f98464772576061809a359a07a"
+  },
+  "labs/2019/1-题目.pptx": {
+    "size": 537896,
+    "time": 1755970656,
+    "hash": "9af8aa93b6d933f98464772576061809a359a07a"
+  },
+  "labs/2019/2-分支程序与循环程序设计.pptx": {
+    "size": 169180,
+    "time": 1755970656,
+    "hash": "9af8aa93b6d933f98464772576061809a359a07a"
+  },
+  "labs/2019/3-子程序和宏设计实例_新.pptx": {
+    "size": 121619,
+    "time": 1755970656,
+    "hash": "9af8aa93b6d933f98464772576061809a359a07a"
+  },
+  "labs/2019/汇编实验评分标准.pptx": {
+    "size": 114197,
+    "time": 1755970656,
+    "hash": "9af8aa93b6d933f98464772576061809a359a07a"
+  },
+  "labs/2020/before/1-熟悉汇编程序开发环境.pptx": {
+    "size": 2039654,
+    "time": 1755970656,
+    "hash": "9af8aa93b6d933f98464772576061809a359a07a"
+  },
+  "labs/2020/before/masm2015.rar": {
+    "size": 16283819,
+    "time": 1755970656,
+    "hash": "9af8aa93b6d933f98464772576061809a359a07a"
+  },
+  "labs/2020/before/masm5.0+DOSBox.rar": {
+    "size": 1675741,
+    "time": 1755970656,
+    "hash": "9af8aa93b6d933f98464772576061809a359a07a"
+  },
+  "labs/2020/before/汇编实验评分标准.pptx": {
+    "size": 114212,
+    "time": 1755970656,
+    "hash": "9af8aa93b6d933f98464772576061809a359a07a"
+  },
+  "labs/2020/实验2.pptx": {
+    "size": 240282,
+    "time": 1755970656,
+    "hash": "9af8aa93b6d933f98464772576061809a359a07a"
+  },
+  "labs/2020/实验3.pptx": {
+    "size": 240747,
+    "time": 1755970656,
+    "hash": "9af8aa93b6d933f98464772576061809a359a07a"
+  },
+  "labs/2020/实验4.pptx": {
+    "size": 148204,
+    "time": 1755970656,
+    "hash": "9af8aa93b6d933f98464772576061809a359a07a"
+  },
+  "labs/2021/1-熟悉汇编程序开发环境.pptx": {
+    "size": 2039654,
+    "time": 1755970656,
+    "hash": "9af8aa93b6d933f98464772576061809a359a07a"
+  },
+  "labs/2021/23秋 汇编 实验题目1.pptx": {
+    "size": 236794,
+    "time": 1755970656,
+    "hash": "9af8aa93b6d933f98464772576061809a359a07a"
+  },
+  "labs/2021/23秋 汇编 实验题目2.pptx": {
+    "size": 96652,
+    "time": 1755970656,
+    "hash": "9af8aa93b6d933f98464772576061809a359a07a"
+  },
+  "labs/2021/23秋 汇编 实验题目3(1).pptx": {
+    "size": 87048,
+    "time": 1755970656,
+    "hash": "9af8aa93b6d933f98464772576061809a359a07a"
+  },
+  "labs/2021/23秋 汇编 实验题目4(1).pptx": {
+    "size": 90195,
+    "time": 1755970656,
+    "hash": "9af8aa93b6d933f98464772576061809a359a07a"
+  },
+  "labs/2021/lab.md": {
+    "size": 619,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "labs/2021/汇编语言与接口技术 实验报告模板.docx": {
+    "size": 23491,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "labs/2022/lab.md": {
+    "size": 761,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "labs/2022/lab1_1_correct.asm": {
+    "size": 268,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "labs/2022/实验一.pptx": {
+    "size": 617813,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "labs/2022/实验三 子程序设计实例.pptx": {
+    "size": 164767,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "labs/2022/实验二 分支程序与循环程序设计.pptx": {
+    "size": 180473,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "labs/2022/实验四.pptx": {
+    "size": 140789,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "labs/2022/汇编语言与接口技术 实验报告模板.docx": {
+    "size": 23491,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1754204031,
+    "hash": "bad0d61d6939a01845de8566a1ebb33a11039050"
+  },
+  "notes/2019_JarrettYe/汇编语言Note.md": {
+    "size": 50898,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "notes/2019_LoanCold/汇编语言笔记.pdf": {
+    "size": 2067152,
+    "time": 1755970492,
+    "hash": "6b1e2ddd0bdecd59acd28f4586ae536738c34537"
+  },
+  "notes/2019_fcw/1. 硬件一览.md": {
+    "size": 6241,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "notes/2019_fcw/2. 寻址方式.md": {
+    "size": 2666,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "notes/2019_fcw/3. 汇编语言基础格式.md": {
+    "size": 5306,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "notes/2019_fcw/4. 汇编指令.md": {
+    "size": 6728,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "notes/2019_fcw/5. 循环与分支结构设计.md": {
+    "size": 3673,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "notes/2019_fcw/6. 子程序结构.md": {
+    "size": 3675,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "notes/2019_fcw/7. 宏.md": {
+    "size": 4196,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "notes/2019_fcw/8. 输入输出程序设计.md": {
+    "size": 7814,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "notes/2019_fcw/9. BIOS和DOS功能调用.md": {
+    "size": 11114,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "notes/2019_fcw/img/image-20210101110944450.png": {
+    "size": 55646,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "notes/2019_fcw/img/image-20210101111940167.png": {
+    "size": 124368,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "notes/2019_fcw/img/image-20210102114501025.png": {
+    "size": 102832,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "notes/2019_fcw/img/image-20210102144852583.png": {
+    "size": 135690,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "notes/2019_fcw/img/image-20210103142404629.png": {
+    "size": 12059,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "notes/2019_fcw/img/image-20210103153311172.png": {
+    "size": 81987,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "notes/2019_fcw/img/image-20210106194352963.png": {
+    "size": 65128,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "notes/2019_fcw/img/image-20210106201811413.png": {
+    "size": 30996,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "notes/2019_fcw/img/image-20210106202157996.png": {
+    "size": 10767,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "notes/2019_fcw/img/image-20210106202744418.png": {
+    "size": 21203,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "notes/2019_fcw/img/image-20210106203845150.png": {
+    "size": 132716,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "notes/2019_fcw/img/image-20210106203942646.png": {
+    "size": 132716,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "notes/2019_fcw/img/image-20210107152558120.png": {
+    "size": 75302,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "notes/2019_fcw/img/image-20210107152643992.png": {
+    "size": 109502,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "notes/2019_fcw/img/image-20210107154331600.png": {
+    "size": 71139,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "notes/2019_fcw/img/image-20210107171859140.png": {
+    "size": 22199,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "notes/2019_fcw/img/image-20210107190702509.png": {
+    "size": 25820,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "notes/2019_fcw/img/image-20210107190833365.png": {
+    "size": 13003,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "notes/2019_fcw/img/image-20210107192719130.png": {
+    "size": 71347,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "notes/2019_fcw/img/image-20210107194158430.png": {
+    "size": 14561,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "notes/2019_fcw/img/image-20210107195124137.png": {
+    "size": 27265,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "notes/2019_fcw/img/image-20210107195505397.png": {
+    "size": 176120,
+    "time": 1755970687,
+    "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
+  },
+  "readme.toml": {
+    "size": 4197,
+    "time": 1773428162,
+    "hash": "6a8cf5e381d1cef15c63c0082273f22b04c8a4b5"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1754204031,
+    "hash": "bad0d61d6939a01845de8566a1ebb33a11039050"
+  }
+}
