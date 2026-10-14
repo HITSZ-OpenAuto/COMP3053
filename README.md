@@ -1,11 +1,5 @@
 # COMP3053 - 汇编语言与接口技术
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业20%](https://img.shields.io/badge/作业-20%25-wheat)
-![实验20%](https://img.shields.io/badge/实验-20%25-wheat)
-![期末考试60%](https://img.shields.io/badge/期末考试-60%25-wheat)
 
 笔者认为汇编是程序员非常重要的内功，对于学习操作系统、编译原理、计算机系统是有帮助的。
 如果仅仅只是为了应付想用最少的时间凑学分，那么你可能不适合选修本门课。
