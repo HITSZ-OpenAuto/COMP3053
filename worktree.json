@@ -10,9 +10,9 @@
     "hash": "bad0d61d6939a01845de8566a1ebb33a11039050"
   },
   "README.md": {
-    "size": 4287,
-    "time": 1791961566,
-    "hash": "bc9f027fbd55d91724575ef02112e5019daeed0f"
+    "size": 4694,
+    "time": 1793459912,
+    "hash": "dfeb00d58ab207254e6d4a7eab4feaf6e95f5281"
   },
   "assignments/.gitkeep": {
     "size": 0,
@@ -23,6 +23,16 @@
     "size": 0,
     "time": 1754204031,
     "hash": "bad0d61d6939a01845de8566a1ebb33a11039050"
+  },
+  "exams/2026秋_卡基米_汇编语言与接口技术回忆版.docx": {
+    "size": 41854,
+    "time": 1793459894,
+    "hash": "15fea0bab35ea24bd91077cd2e6b134233f2a22c"
+  },
+  "exams/2026秋_卡基米_汇编语言与接口技术回忆版.pdf": {
+    "size": 147972,
+    "time": 1793459894,
+    "hash": "15fea0bab35ea24bd91077cd2e6b134233f2a22c"
   },
   "exams/23秋汇编语言与接口技术回忆版.pdf": {
     "size": 1130189,
@@ -340,9 +350,9 @@
     "hash": "b23f496f900d99a567d2e37db75e10d84e408b64"
   },
   "readme.toml": {
-    "size": 4197,
-    "time": 1773428162,
-    "hash": "6a8cf5e381d1cef15c63c0082273f22b04c8a4b5"
+    "size": 4663,
+    "time": 1793459912,
+    "hash": "dfeb00d58ab207254e6d4a7eab4feaf6e95f5281"
   },
   "slides/.gitkeep": {
     "size": 0,
