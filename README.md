@@ -16,7 +16,7 @@
 ## 关于课程
 <!-- TOML-SECTION: title="关于课程" -->
 
-<!-- TOML-ITEM: id="item-关于课程-1" -->
+<!-- TOML-ITEM: id="item-关于课程-1" author_type="list" -->
 
 笔者认为汇编是程序员非常重要的内功，对于学习操作系统、编译原理、计算机系统是有帮助的。接口技术主要是一些操作系统底层汇编与硬件外设进行交互的部分。
 
@@ -54,6 +54,9 @@ Agent开发挤占了相当一部分传统SWE的生态位，但Spec依然要求�
 > 文 / supremewen（24 级），2026.11
 
 ## 考核方式
+<!-- TOML-SECTION: title="考核方式" -->
+
+<!-- TOML-ITEM: id="item-考核方式-1" author_type="list" -->
 
 2026更新：
 
@@ -91,7 +94,7 @@ Agent开发挤占了相当一部分传统SWE的生态位，但Spec依然要求�
 ## 关于考试
 <!-- TOML-SECTION: title="关于考试" -->
 
-<!-- TOML-ITEM: id="item-关于考试-1" -->
+<!-- TOML-ITEM: id="item-关于考试-1" author_type="list" -->
 
 考试题量较大，要把握好时间，会有一些需要记忆的知识点。
 
